@@ -11,7 +11,11 @@ void showSum(int a, int b){
 cout<<"Сумма чисел: "<<(a+b)<<endl;
 cout<<"Разность чисел: "<<(a-b);
 cout<<"Разность чисел: "<<(b*a);
+cout<<"Произведение чисел: "<<(a/b);
 }
+
+
+ //RepoB
 
 int main(){
  
