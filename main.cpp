@@ -10,6 +10,7 @@ void showSum(int a, int b){
     setlocale(LC_ALL, "Russian");
 cout<<"Сумма чисел: "<<(a+b)<<endl;
 cout<<"Разность чисел: "<<(a-b);
+cout<<"Произведение чисел: "<<(a*b);
 }
 
 
